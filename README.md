@@ -5,7 +5,7 @@ For this software to run, you must follow the steps below:
 3. Download the main.py file from this repo.
 4. Right click on the downloaded file and choose the option "Open with Code".
 5. Run the code by clicking on the triangle shape icon on the top right corner of your VS code application.
-6. & Voila you got yourself a working Encryption & deryption software.
+6. & Voila you got yourself a working Encryption & Decryption software.
 
 
 This small project is only for entertainment purpose & this was also the solely reason for the creation for this project (i.e. my entertainment😂).
